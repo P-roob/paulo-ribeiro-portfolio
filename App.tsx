@@ -84,7 +84,7 @@ const App: React.FC = () => {
               rel="noopener noreferrer"
               className="px-5 py-2 rounded-full bg-purple-600 hover:bg-purple-700 text-white text-sm font-semibold transition-all shadow-[0_0_20px_rgba(124,58,237,0.3)] hover:shadow-[0_0_25px_rgba(124,58,237,0.5)]"
             >
-              Portfólio de Design
+              Visitar Portfólio
             </a>
           </div>
 
@@ -113,7 +113,7 @@ const App: React.FC = () => {
                 rel="noopener noreferrer"
                 className="px-8 py-3 rounded-full bg-purple-600 text-white font-semibold"
               >
-                Portfólio de Design
+                Visitar Portfólio
               </a>
             </div>
           </div>
@@ -136,7 +136,7 @@ const App: React.FC = () => {
                   <span className="text-purple-500">{PERSONAL_INFO.name}</span>
                 </h1>
                 <p className="text-xl md:text-2xl text-zinc-400 font-light max-w-lg">
-                  Visual Designer | Em transição para Front-End Development | UI & Produto Digital
+                  Product Designer & Design Engineer | Especializado em interfaces, UX/UI e desenvolvimento de produto assistido por IA
                 </p>
               </div>
               
@@ -182,8 +182,8 @@ const App: React.FC = () => {
                           <Palette size={24} />
                        </div>
                        <div>
-                          <h3 className="font-semibold text-white">Visual Design</h3>
-                          <p className="text-sm text-zinc-500">Branding, Art Direction, Visual Systems, Social & Motion</p>
+                          <h3 className="font-semibold text-white">Product Design</h3>
+                          <p className="text-sm text-zinc-500">UX Flow, Figma & Wireframes</p>
                        </div>
                     </div>
                     <div className="flex gap-4">
@@ -191,8 +191,8 @@ const App: React.FC = () => {
                           <Layout size={24} />
                        </div>
                        <div>
-                          <h3 className="font-semibold text-white">UX/UI Design</h3>
-                          <p className="text-sm text-zinc-500">UX Strategy, Interface Design & Prototyping</p>
+                          <h3 className="font-semibold text-white">UX/UI & Design Systems</h3>
+                          <p className="text-sm text-zinc-500">Tokens, Componentes & Padrões</p>
                        </div>
                     </div>
                     <div className="flex gap-4">
@@ -200,8 +200,8 @@ const App: React.FC = () => {
                           <Code size={24} />
                        </div>
                        <div>
-                          <h3 className="font-semibold text-white">Front-End</h3>
-                          <p className="text-sm text-zinc-500">HTML, CSS, JavaScript, React</p>
+                          <h3 className="font-semibold text-white">Design Engineering</h3>
+                          <p className="text-sm text-zinc-500">React, Tailwind & IA Assistida</p>
                        </div>
                     </div>
                  </div>
@@ -380,11 +380,11 @@ const App: React.FC = () => {
           <div className="max-w-4xl mx-auto px-6 text-center space-y-12">
              <div className="space-y-4">
                 <h2 className="text-sm font-bold text-purple-500 uppercase tracking-[0.2em]">Vamos Conversar?</h2>
-                <p className="text-5xl md:text-6xl font-bold text-white">Design e Front-End no mesmo lugar.</p>
+                <p className="text-5xl md:text-6xl font-bold text-white">Pronto para elevar seu próximo projeto.</p>
              </div>
              
              <p className="text-xl text-zinc-400 font-light max-w-2xl mx-auto">
-               Estou em busca de uma oportunidade como Front-End Developer onde minha experiência em design possa agregar valor real ao produto, desde a interface até a implementação.
+               Atuo na interseção entre design de produto e engenharia, do discovery à implementação de interfaces refinadas. Vamos criar grandes produtos juntos?
              </p>
              
              <div className="flex flex-col sm:flex-row items-center justify-center gap-6 pt-6">

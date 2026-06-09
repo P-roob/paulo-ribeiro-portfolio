@@ -1,5 +1,6 @@
 {
   "name": "Paulo Ribeiro Portfolio",
-  "description": "A high-end responsive portfolio for Paulo Ribeiro, featuring a sleek dark theme with purple accents, showcasing visual design, UI/UX, and front-end development skills.",
-  "requestFramePermissions": []
+  "description": "A high-end responsive portfolio for Paulo Ribeiro, featuring a sleek dark theme with purple accents, showcasing product design, UX/UI, and design engineering skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
